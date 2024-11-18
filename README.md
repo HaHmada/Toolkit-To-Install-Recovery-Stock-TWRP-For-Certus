@@ -1,10 +1,8 @@
 **Toolkit FlashTWRP For Redmi 6/6A** 
 
-Easy To Install TWRP With Toolkit 
+This Toolkit Makes It Easy For You To Install TWRP With Your Computer
 
-**Warning!!!** 
-
-This Toolkit Only For Windows XP Or New Version Of Windows 
+**Warning!!!** This Toolkit Only For Windows XP Or New Version Of Windows 
 
 **You Can Create This Toolkit (Only For Windows 7 x64 or New Version)**
 

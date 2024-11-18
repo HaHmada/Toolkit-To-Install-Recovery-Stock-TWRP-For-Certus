@@ -6,7 +6,7 @@ Easy To Install TWRP With Toolkit
 
 This Toolkit Only For Windows XP Or New Version Of Windows 
 
-**You Can Create This Toolkit (Only For Windows 8 x64 or New Version)**
+**You Can Create This Toolkit (Only For Windows 7 x64 or New Version)**
 
 Tools
 

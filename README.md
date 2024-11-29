@@ -18,21 +18,29 @@ Tools
 
 After You Install Everything, Follow This Steps
 
-1. Make Folder (Folder Name Examples "Toolkit")
+1. First You Have To Find A Location ("Documents" Folder Example)
 
-2. Open CMD And Open The Toolkit Folder In CMD
+2. Open CMD And Open Documents Folder In CMD
 
 ```
-cd Documents/Toolkit
+cd Documents
 ```
 
-4. Copy This Command To CMD (If This Doesn't Work You Can Use Git CMD)
+3. Copy This Command To CMD (If This Doesn't Work You Can Use "Git CMD")
 
 ```
 git clone https://github.com/HaHmada/Toolkit-To-Install-TWRP-For-Certus.git -b TWRP
 ```
 
-5. Open Notepad++, And Paste In Notepad++
+4. After That Go To The Toolkit Folder
+
+```
+cd Toolkit-To-Install-TWRP-For-Certus
+```
+
+5. Put The "recovery.img" File Into The Toolkit-To-Install-TWRP-For-Certus Folder
+
+6. Open Notepad++, And Paste In Notepad++
 
 ```
 @echo off
@@ -84,10 +92,12 @@ pause  >NUL
 EXIT
 ```
 
-6. Once you are done, click CTRL+SHIFT+S & Following This Settings
+7. Once you are done, click CTRL+SHIFT+S & Following This Settings
+
+Location: C:/Users/user/Documents/
 
 File name: Toolkit.bat
 
 Save as type: All types (*.*)
 
-7. Finish You Can Use This Toolkit
+8. Finish You Can Use This Toolkit

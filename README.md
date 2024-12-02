@@ -102,7 +102,7 @@ EXIT
 
 7. Once you are done, click CTRL+SHIFT+S & Following This Settings
 
-Location: C:/Users/user/Documents/
+Location: C:/Users/user/Documents/Toolkit-To-Install-TWRP-For-Certus
 
 File name: Toolkit.bat
 

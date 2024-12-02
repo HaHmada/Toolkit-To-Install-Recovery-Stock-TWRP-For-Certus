@@ -1,5 +1,8 @@
 # Toolkit FlashTWRP For Redmi 6/6A
 
+**->** `Toolkit Display Photo`
+![Version 1.0](assets/Toolkit-FlashTWRP-For-Certus.png)
+
 This Toolkit Makes It Easy For You To Install TWRP On Redmi 6/6A With Your Computer
 
 **Note**: This Toolkit Only For Windows XP Or New Version Of Windows 

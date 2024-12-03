@@ -43,11 +43,7 @@ cd Documents
 git clone https://github.com/HaHmada/Toolkit-To-Install-TWRP-For-Certus.git -b TWRP
 ```
 
-4. After That Go To The Toolkit Folder
-
-```
-cd Toolkit-To-Install-TWRP-For-Certus
-```
+4. After That Close CMD
 
 5. Put The "recovery.img" File Into The Toolkit-To-Install-TWRP-For-Certus Folder
 

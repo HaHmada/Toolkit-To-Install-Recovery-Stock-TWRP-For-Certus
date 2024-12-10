@@ -112,6 +112,8 @@ Save as type: All types (*.*)
 
 8. Finish You Can Use This Toolkit
 
+</details>
+
 # Error Solution
 
 If Your Devices Are Not Detected Like This

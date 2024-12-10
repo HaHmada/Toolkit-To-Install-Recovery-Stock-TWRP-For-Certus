@@ -9,6 +9,9 @@ This Toolkit Makes It Easy For You To Install TWRP On Redmi 6/6A With Your Compu
 
 # You Can Create This Toolkit (Only For Windows 7 or New Version)
 
+<details>
+	 <summary><b>Click Here To Start Build</b></summary>
+
 Tools
 
 - [TWRP For Certus](https://eu.dl.twrp.me/cactus/twrp-3.7.0_9-0-cactus.img "TWRP")

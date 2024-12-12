@@ -7,7 +7,7 @@ This Toolkit Makes It Easy For You To Install TWRP On Redmi 6/6A With Your Compu
 
 > **Note**: For Now Only Support Windows 
 
-# You Can Create This Toolkit (Only For Windows 7 or New Version)
+# You Can Make This Toolkit Yourself (Only For Windows 7 or New Version)
 
 <details>
 	 <summary><b>Click Here To Start Build</b></summary>

@@ -5,14 +5,14 @@
 
 This Toolkit Makes It Easy For You To Install TWRP On Redmi 6/6A With Your Computer
 
-> **Note**: This Toolkit Only For Windows XP Or New Version Of Windows 
+> **Note**: For Now Only Support Windows 
 
 # You Can Create This Toolkit (Only For Windows 7 or New Version)
 
 <details>
 	 <summary><b>Click Here To Start Build</b></summary>
 
-Tools
+# Tools
 
 - [TWRP For Certus](https://eu.dl.twrp.me/cactus/twrp-3.7.0_9-0-cactus.img "TWRP")
 
@@ -28,9 +28,9 @@ Tools
 
 - [Notepad++ ARM64/x86_64 (64-bit)](https://objects.githubusercontent.com/github-production-release-asset-2e65be/33014811/a768fb53-85e0-4176-bb94-2f0a48463375?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241129T123713Z&X-Amz-Expires=300&X-Amz-Signature=469ddee8bc51648bad2e4ef8c8e4f3c958978c6f4bad7371d3c7cd256eb0a206&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dnpp.8.7.2.Installer.arm64.exe&response-content-type=application%2Foctet-stream "Notepad++_ARM64")
 
-**Note**: Rename twrp-3.7.0_9-0-cactus.img To recovery.img
+> **Note**: Rename twrp-3.7.0_9-0-cactus.img To recovery.img
 
-After You Install Everything, Follow This Steps
+# After You Install Everything, Follow This Steps
 
 1. First You Have To Find A Location ("Documents" Folder Example)
 
